@@ -1,0 +1,11 @@
+Zinc
+potassium1
+magnesium
+cadmium
+calcium
+sodium
+cobalt
+sodium/potassium
+cesium
+iron(III)
+metalmix
